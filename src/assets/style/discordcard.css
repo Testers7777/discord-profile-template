@@ -174,7 +174,6 @@
     outline: none;
     resize: none;
     overflow: hidden;
-     /* padding: 50px 75px 30px 75px; */
     height: 100px;
     width: 310px;
     margin-left: 15px;
@@ -261,11 +260,6 @@
     text-align: center;
     width: 180px;
 }
-
-/* top:    1em padding  */
-/* right:  3px padding  */
-/* bottom: 30px padding */
-/* left:   5px padding  */
 
 .badge2desc {
     border: #5865f2 1px solid;
