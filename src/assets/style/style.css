@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.tippy-box[data-theme~='type'] {
+    background-color: #111214;
+    margin-top: 100px;
+  }
+
+  .tippy-box[data-theme~='type'][data-placement^='top'] > .tippy-arrow::before {
+    border-top-color: #111214;
+  }
+
+.pronouns:hover {
+    cursor: default;
+}
