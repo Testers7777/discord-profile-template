@@ -1,6 +1,7 @@
 # discord-profile-template
 
-everything is customizable !!
+everything is customizable !!<br>
+this code doesn't use the discord API but you can add it ifw
 
 there is an exemple of my profile from my porfolio :
 
