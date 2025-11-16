@@ -4,7 +4,7 @@ everything is customizable !!<br>
 this code doesn't use the discord API but you can add it ifw
 
 <p>exemple to interact :<br>
-https://testers7777.github.io/discord-profile-template/src/index.html</p>
+https://testers7777.github.io/first-portfolio/discord-profile.html</p>
 
 
 there is an exemple of my profile from my porfolio :
